@@ -1,0 +1,12 @@
+{
+  "login": [
+    "token": "test"
+  ],
+  "user": [
+    {
+      "id": "1000",
+      "name": "test sometest",
+      "image": "images/testuser.jpeg"
+    }
+  ]
+}
