@@ -1,6 +1,8 @@
 {
   "login": [
-    "token": "test"
+    {
+      "token": "test"
+    }
   ],
   "user": [
     {
