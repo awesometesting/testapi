@@ -1,7 +1,8 @@
 {
   "login": [
     {
-      "token": "2ZXIwSy9uRlBsR2hLbHowT0h1QTp4NVdxeDFCT"
+      "token": "2ZXIwSy9uRlBsR2hLbHowT0h1QTp4NVdxeDFCT",
+      "expires_in": 30
     }
   ],
   "user": [
